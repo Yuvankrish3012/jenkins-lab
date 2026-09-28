@@ -1,0 +1,10 @@
+4.0.0
+  com.devops
+  jenkins-lab
+  1.0
+  
+    src
+    
+      
+        maven-compiler-plugin
+        3.8.1
